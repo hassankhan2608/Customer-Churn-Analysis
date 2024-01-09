@@ -10,5 +10,4 @@ Customer account information: how long as a customer, contract, payment method, 
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 ![Screenshot](1.png)
-
-![alt text](![2](https://github.com/hassankhan2608/Customer-Churn-Analysis/assets/149296407/8fdb8e1f-3ec1-4119-9025-01aabce486f1))
+![Screenshot](2.png)
